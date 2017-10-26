@@ -51,7 +51,7 @@ section:hover {
 /* SECOND BREAKPOINT (DESKTOP SIZE) */
 @media screen and (min-width: 1000px) {
   body {
-    background: yellow;
+    background: linear-gradient(to right, blueviolet, yellow);
   }
 
   section {
